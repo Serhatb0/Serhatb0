@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🤝 I'm looking for job help with<br>🌱 I'm currently learning microservices
+🌱 I'm currently learning microservices
 
 
 ## 🌐 Socials:
